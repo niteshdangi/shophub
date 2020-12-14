@@ -5,7 +5,7 @@ var __wpo = {
       "/17629a5dfe0d3c3946cf401e1895f091.ttf",
       "/favicon.ico",
       "/2feb69ccb596730c72920c6ba3e37ef8.eot",
-      "/runtime.104dfa00d69762504d41.js",
+      "/runtime.4ebcf5e1faf02d34e29f.js",
       "/"
     ],
     "additional": [
@@ -50,18 +50,18 @@ var __wpo = {
     "1ceb0f56c8d9fa33d55f95a7c4aa8bdd45d3700b": "/npm.react-redux.ac4595acc9003405d038.chunk.js",
     "f9141ed1d8d3a372c3247446976556c481fab1af": "/npm.react-transition-group.1dc9ac56235c8ec0ef15.chunk.js",
     "43d532f1c51ab566b1fb6885b07df7de0d686c48": "/npm.redux-saga.efd4968d171676e5c831.chunk.js",
-    "16e5cf08cbb2792ca338a4940269995c1b1b12e6": "/runtime.104dfa00d69762504d41.js",
+    "9b89234357ceb5f60c80a0aeac6e393511a1ccd4": "/runtime.4ebcf5e1faf02d34e29f.js",
     "f3ac9f36193202e28753bded47d43c4d08ddc8d8": "/14.7934a4033c42291b2d3f.chunk.js",
     "9c3844208422187f83788fb050764689338cb7fd": "/15.65be1ea6590d944446f4.chunk.js",
     "d322db3c68bfb2ce8376924ecacf1eb04b68d813": "/16.ed077b1089fd1273e8fe.chunk.js",
     "23c00ae4ac586a4f31695909095f7e045644475b": "/17.05bf9dccd5d5c3d3804c.chunk.js",
     "35b7bd5ae847a9aab95dea3ffdc122ab355a4a51": "/18.38a2d8736a29bd6c8786.chunk.js",
     "e5528f8d4b55a18a8bd5a26d6ec7cfaae341145e": "/19.5f5b265b82c786ba9c50.chunk.js",
-    "2b6a2000bc8e09efd5bb7d87b44f947b5896dbe3": "/"
+    "37f32d950320e7459a4351124b15f37a9cb7c3ea": "/"
   },
   "strategy": "changed",
   "responseStrategy": "cache-first",
-  "version": "14/12/2020, 11:33:11 am",
+  "version": "14/12/2020, 11:44:58 am",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
@@ -146,7 +146,7 @@ var __wpo = {
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/";
+/******/ 	__webpack_require__.p = "/shophub/";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
