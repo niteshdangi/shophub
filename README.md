@@ -1,2 +1,2 @@
 # shophub
-(demo)[https://niteshdangi.github.io/shophub]
+[demo](https://niteshdangi.github.io/shophub)
